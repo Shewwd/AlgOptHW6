@@ -217,3 +217,5 @@ public class MazeGame {
         }
     }
 }
+
+// both the maze generation and the hint solution have an asymptotic time complexity of O(rows * cols), which means that their execution time is proportional to the number of cells in the maze.
